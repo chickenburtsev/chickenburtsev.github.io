@@ -9,7 +9,7 @@
  *   then paste the public URL here. Set url to '' to show the card with “Available on request”.
  */
 window.VB_CONFIG = {
-  COCOFLY_URL: 'https://cocofly.vpurcev.workers.dev',
+  COCOFLY_URL: 'https://cocofly.pages.dev',
 
   RESEARCH: [
     { id: 'atlas',    url: '' /* private for now: 'https://claude.ai/artifact/J1PsVHLN6VZf4EUz5vCJni' */ }, // Атлас ИИ-трансформации
